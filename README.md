@@ -36,12 +36,3 @@ Execute the following command on the terminal
 The results images are compressed as the **img.zip** file
 
 **NOTE :** The python script can also be executed on Google Colab using **StyleTransfer.ipynb** 
-### Contributors
-Atulya Shetty
-
-Jacob John Jeevan
-
-Mishahal Salim Mohammed Palakuniyil 
-
-Yashkumar Makwana
-
