@@ -6,8 +6,8 @@ In the past, style transfers have been widely used to impose an artistic style o
 
 ### Frameworks
 - Tensorflow - Open source library used for deeplearning 
-- PIL - Image processing libary
-- OpenCV - Image Processing Libary
+- PIL - Image processing library
+- OpenCV - Image Processing Library
 - Matplotlib - Library used for visualizations
 
 ### Installation
